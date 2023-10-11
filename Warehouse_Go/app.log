@@ -1,0 +1,44 @@
+2023/10/09 13:22:51 CreateProductInventoryHandler function called
+2023/10/09 13:22:51 Response Data: {ID:ObjectID("6523d47b7c2b4b6e649c164d") ProductID:ObjectID("000000000000000000000000") Quantity:3 Expiration:2023-10-19 00:00:00 +0000 UTC CreatedAt:2023-10-09 13:22:51.4516569 +0300 IDT m=+8.883270201 UpdatedAt:0001-01-01 00:00:00 +0000 UTC}
+2023/10/09 13:22:51 Response Status Code: 201
+2023/10/09 13:22:51 Product inventory created with ID: 6523d47b7c2b4b6e649c164d
+INFO: 2023/10/09 17:36:56 mongodb.go:44: Connected to MongoDB
+INFO: 2023/10/09 18:02:45 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/09 21:59:26 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/09 22:34:30 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/09 22:36:09 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 11:26:42 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 11:27:29 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 11:34:15 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 11:59:32 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 12:01:22 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 12:02:21 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 12:04:46 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 12:06:01 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 13:17:27 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 13:23:50 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 13:24:57 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 13:26:10 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 13:33:01 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 13:34:10 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 13:35:47 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 13:55:01 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 14:00:53 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 14:02:53 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 14:05:33 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 14:06:10 categoryHandler.go:87: Content-Type sent to frontend: text/plain
+INFO: 2023/10/10 14:09:33 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 14:11:07 categoryHandler.go:87: Content-Type sent to frontend: text/plain
+INFO: 2023/10/10 14:12:21 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 16:36:43 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 16:49:17 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 16:50:41 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 16:59:14 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 17:12:12 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 17:14:51 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 17:41:25 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 17:45:04 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 20:12:10 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 20:15:29 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 20:21:29 mongodb.go:40: Connected to MongoDB
+INFO: 2023/10/10 21:08:22 mongodb.go:40: Connected to MongoDB
