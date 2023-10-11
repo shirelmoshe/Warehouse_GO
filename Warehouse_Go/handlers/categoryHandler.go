@@ -74,10 +74,10 @@ func GetCategories(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Set the Content-Type header to application/json
+	
 	w.Header().Set("Content-Type", "application/json")
 
-	// Encode the response data as JSON and write it to the response writer
+	
 	responseBytes, err := json.Marshal(categories)
 	if err != nil {
 		logger.ErrorLogger.Println("Failed to marshal JSON response:", err)
